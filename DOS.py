@@ -8,7 +8,7 @@ ag = us.random
 headers = {
 	"User-Agent" : str(ag)
 }
-print("DDOS by M")
+print("DOS by M")
 sleep(2)
 print("Loading...")
 sleep(2)
